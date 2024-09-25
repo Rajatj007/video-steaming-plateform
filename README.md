@@ -59,4 +59,4 @@ Contributions are welcome! Please fork this repository and create a pull request
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact the project maintainer at [harshurao058@gmail.com](harshurao058@gmail.com).
+If you have any questions or suggestions, feel free to contact the project maintainer at [rajatjais0077@gmail.com](rajatjais0077@gmail.com).
