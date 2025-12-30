@@ -1,6 +1,6 @@
 # Streamify
 
-Streamify is an Express.js application that allows users to create, upload, view, like, and comment on videos, much like YouTube.
+Streamify is an React.js application that allows users to create, upload, view, like, and comment on videos, much like YouTube.
 
 ## Features
 
