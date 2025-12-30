@@ -19,7 +19,7 @@ To run Streamify locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Install dependencies by running `npm install`.
-4. Set up a MongoDB database and update the connection string.
+4. Set up a MySQL database and update the connection string.
 5. Sign up for a Cloudinary account and obtain your cloud name, API key, and API secret.
 6. Create a .env file in the root directory of the project and add the following variables:
 
