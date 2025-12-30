@@ -23,7 +23,7 @@ To run Streamify locally, follow these steps:
 5. Sign up for a Cloudinary account and obtain your cloud name, API key, and API secret.
 6. Create a .env file in the root directory of the project and add the following variables:
 
-MONGODB_URI=<your_mongodb_uri>
+MYSQL_URI=<your_mysql_uri>
 CORS_ORIGIN=<your_cors_origin>
 ACCESS_TOKEN_SECRET=<your_access_token_secret>
 REFRESH_TOKEN_SECRET=<your_refresh_token_secret>
